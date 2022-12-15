@@ -1,0 +1,26 @@
+id: ID44F47CA
+default_language: en-us
+source: ''
+initial_creation_type: tmx
+imported: 2022-12-15 07:21:51.347298+00:00
+last_modified: 2022-12-15 07:21:51.347304+00:00
+source_metadata:
+  creationtool: InterText
+  creationtoolversion: '1.0'
+  datatype: PlainText
+  segtype: block
+  adminlang: en-us
+  srclang: bo
+  o-tmf: XML aligned text
+  eft-text-id: UT22084-087-009
+  eft-text-version: 1.1.6 2021
+  title: Toh_504-Account_of_the_Previous_Aspirations_of_Bhaisajyaguruvaiduryaprabha-v2
+bases:
+  6BDE:
+    source_metadata: null
+    order: 1
+    base_file: 6BDE.txt
+    statistics: null
+copyright:
+  status: Unknown
+  notice: ''
